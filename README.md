@@ -46,11 +46,11 @@ Original free design template by Graphberry.
 ## 📷 Screenshots
 
 ### Desktop View
-![Desktop](<img width="1873" height="837" alt="image" src="https://github.com/user-attachments/assets/dbe3e99a-603e-4c69-b764-20e2b462c59d" />
+(<img width="1873" height="837" alt="image" src="https://github.com/user-attachments/assets/dbe3e99a-603e-4c69-b764-20e2b462c59d" />
 )
 
 ### Mobile View
-![Mobile](<img width="485" height="761" alt="image" src="https://github.com/user-attachments/assets/3cbe9fa9-8dad-4a5a-bc18-ef10eac2fdbb" />
+(<img width="485" height="761" alt="image" src="https://github.com/user-attachments/assets/3cbe9fa9-8dad-4a5a-bc18-ef10eac2fdbb" />
 )
 
 ## 👨‍💻 Author

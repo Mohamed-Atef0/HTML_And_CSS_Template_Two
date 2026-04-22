@@ -4,11 +4,11 @@ A responsive modern website built using **HTML** and **CSS**, based on a free de
 
 ## 🚀 Live Demo
 
-[(https://mohamed-atef0.github.io/HTML_And_CSS_Template_Two/)]
+https://mohamed-atef0.github.io/HTML_And_CSS_Template_Two/
 
 ## 📁 Repository
 
-[(https://github.com/Mohamed-Atef0/HTML_And_CSS_Template_Two.git)]
+https://github.com/Mohamed-Atef0/HTML_And_CSS_Template_Two.git
 
 ## ✨ Features
 
